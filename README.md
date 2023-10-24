@@ -13,7 +13,6 @@ in the project directory>npm run android or ios
 Screenshots 
 ---------------------------------------------------------
 
-
-![UberHome](https://github.com/KgatlisoLM/UberApp/assets/39485154/3435e402-a43c-4e8f-84c7-56a9bcf208e7)
-![UberLocation](https://github.com/KgatlisoLM/UberApp/assets/39485154/ab409824-97df-45d2-9d76-3304c1df9f29)
-![UberRides](https://github.com/KgatlisoLM/UberApp/assets/39485154/3ca1679a-508c-4b1e-8561-ffc9c343210d)
+![UberHome](https://github.com/KgatlisoLM/UberApp/assets/39485154/41526cc8-36f4-434e-86ca-82546befcaf1)
+![UberLocation](https://github.com/KgatlisoLM/UberApp/assets/39485154/4e5c7b69-0b5f-4178-a827-b894023dcc65)
+![UberRides](https://github.com/KgatlisoLM/UberApp/assets/39485154/1db526f2-1728-4d78-b7e6-6c2d81fe3730)
